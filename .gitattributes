@@ -521,4 +521,3 @@ entities/r.2.8.mca filter=lfs diff=lfs merge=lfs -text
 entities/r.0.1.mca filter=lfs diff=lfs merge=lfs -text
 entities/r.17.14.mca filter=lfs diff=lfs merge=lfs -text
 entities/r.3.-18.mca filter=lfs diff=lfs merge=lfs -text
-level.dat filter=lfs diff=lfs merge=lfs -text
